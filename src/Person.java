@@ -16,7 +16,6 @@ public class Person {
         this.surname = surname;
         this.age = age;
 
-
     }
 
     public int happyBirthday() {

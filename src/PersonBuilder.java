@@ -42,7 +42,6 @@ public class PersonBuilder {
         }
         if (city != null) {
             person.setCity(city);
-
         }
         return person;
     }
